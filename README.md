@@ -16,7 +16,7 @@ PyQT ROS Exmaple
     ```
 * **Add permission**
   ```
-  $ cd ~/(your ros workspace)/src/ptqt_ros_example/launch
+  $ cd ~/(your ros workspace)/src/ptqt_ros_example/scripts
   $ chmod +x main_node.py
   $ chmod +x service_test_node.py
   ```
