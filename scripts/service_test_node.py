@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import rospy
 from pyqt_ros_example.srv import *
 
